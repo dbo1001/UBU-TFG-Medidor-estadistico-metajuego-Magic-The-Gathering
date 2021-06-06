@@ -1,5 +1,5 @@
 # Medidor-estadistico-metajuego-Magic-The-Gathering
-Aplicación de análisis de estadísiticas y ayuda a los jugadores de Magic the Gathering     
+Aplicación de análisis de estadísiticas y ayuda a los jugadores de Magic the Gathering       
 
 La aplicación permite que los usuarios introduzcan barajas a la base de datos (únicamente guardando el nombre de las mismas) y posteriormente los permite
 registrar sus torneos jugados, introduciendo qué baraja han jugado en el torneos y contra qué baraja y qué resultado han obtenido en cada una de las rondas.
